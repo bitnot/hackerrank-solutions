@@ -1,0 +1,5 @@
+let () =
+    let n = read_int() in
+    for i = n downto 1 do
+        print_endline("Hello World")
+    done

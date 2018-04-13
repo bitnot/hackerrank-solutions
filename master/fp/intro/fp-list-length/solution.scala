@@ -1,0 +1,1 @@
+def f(arr:List[Int]):Int = arr.zipWithIndex.map(_._2).last + 1

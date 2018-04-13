@@ -1,0 +1,6 @@
+(defun solveMeFirst (x y)    
+    (+ x y))
+(setq a (parse-integer (read-line)))
+(setq b (parse-integer (read-line)))
+
+(write (solveMeFirst a b))
