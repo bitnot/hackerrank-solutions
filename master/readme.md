@@ -6,6 +6,7 @@ algorithms|arrays-and-sorting|   30|[tutorial-intro](./algorithms/arrays-and-sor
 algorithms|bit-manipulation|   20|[lonely-integer](./algorithms/bit-manipulation/lonely-integer/)
 algorithms|bit-manipulation|   40|[flipping-bits](./algorithms/bit-manipulation/flipping-bits/)
 algorithms|dynamic-programming|   30|[equal](./algorithms/dynamic-programming/equal/)
+algorithms|dynamic-programming|   35|[construct-the-array](./algorithms/dynamic-programming/construct-the-array/)
 algorithms|dynamic-programming|   40|[sam-and-substrings](./algorithms/dynamic-programming/sam-and-substrings/)
 algorithms|dynamic-programming|   45|[fibonacci-modified](./algorithms/dynamic-programming/fibonacci-modified/)
 algorithms|dynamic-programming|   50|[sherlock-and-cost](./algorithms/dynamic-programming/sherlock-and-cost/)
