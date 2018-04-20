@@ -62,6 +62,7 @@ data-structures|heap|   50|[find-the-running-median](./data-structures/heap/find
 data-structures|linked-lists|    5|[detect-whether-a-linked-list-contains-a-cycle](./data-structures/linked-lists/detect-whether-a-linked-list-contains-a-cycle/)
 data-structures|queues|   30|[queue-using-two-stacks](./data-structures/queues/queue-using-two-stacks/)
 data-structures|stacks|   25|[balanced-brackets](./data-structures/stacks/balanced-brackets/)
+data-structures|stacks|   50|[largest-rectangle](./data-structures/stacks/largest-rectangle/)
 data-structures|stacks|   65|[simple-text-editor](./data-structures/stacks/simple-text-editor/)
 data-structures|trees|   30|[is-binary-search-tree](./data-structures/trees/is-binary-search-tree/)
 data-structures|trie|   40|[contacts](./data-structures/trie/contacts/)
