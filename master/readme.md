@@ -102,6 +102,7 @@ fp|intro|   20|[lambda-march-compute-the-area-of-a-polygon](./fp/intro/lambda-ma
 fp|intro|   30|[area-under-curves-and-volume-of-revolving-a-curv](./fp/intro/area-under-curves-and-volume-of-revolving-a-curv/)
 fp|misc|   10|[remove-duplicates](./fp/misc/remove-duplicates/)
 fp|misc|   20|[rotate-string](./fp/misc/rotate-string/)
+fp|misc|   20|[subset-sum](./fp/misc/subset-sum/)
 mathematics|combinatorics|   30|[sherlock-and-pairs](./mathematics/combinatorics/sherlock-and-pairs/)
 mathematics|fundamentals|    5|[find-point](./mathematics/fundamentals/find-point/)
 python|py-basic-data-types|   10|[finding-the-percentage](./python/py-basic-data-types/finding-the-percentage/)
